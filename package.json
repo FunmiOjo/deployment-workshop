@@ -4,7 +4,7 @@
   "description": "",
   "engines": {
     "node": "10.7.0"
-  }
+  },
   "main": "index.js",
   "scripts": {
     "build-client": "webpack -p",
